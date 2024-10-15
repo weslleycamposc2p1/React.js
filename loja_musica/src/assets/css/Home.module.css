@@ -1,0 +1,31 @@
+.corpo{
+    width:100%;
+    height: 400px;
+    background-color: rgb(177, 29, 29);
+    display: flex;
+}
+
+.textloja{
+    position: relative;
+    width:40%;
+    height: 340px;
+    background-color: #BA8A8A;
+    top:25px;
+    left:60px;
+    text-align: center;
+    color: white;
+    font-size:20px;
+}
+
+.lojafoto{
+    position: relative;
+    width:40%;
+    height: 340px;
+    background-color: #BA8A8A;
+    top:25px;
+    left:240px;
+    background-image: url(../Imgs/loja.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

@@ -1,0 +1,10 @@
+.fundo{
+    background-image: url(../imagens/Muralha.jpg);
+    background-size: cover;
+    background-position: 50%, 50%;
+    width: 100%;
+    height: 600px;
+}
+.band{
+    width: 200px;
+}
