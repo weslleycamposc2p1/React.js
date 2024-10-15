@@ -8,9 +8,8 @@ function Home(){
             </div>
 
             <div className={styles.texto_lado}>
-                <h1>Encontre aqui a sua pior viagem possível!</h1>
-                <p>Está pronto para a pior aventura que poderia ir? nós transformamos suas ideias em experiências horriveis! Desde destinos ruins até as top de bala mais feias, oferecemos pacotes personalizados que se adequam a sua péssima viagem e orçamento super caros.Com atendimento especializado em piorar ainda mais sua viagem e dicas piores ainda, garantimos que cada viagem seja única, temos certeza que você nunca irá esquece-la. Explore, reclame e aproveite o pior da vida! Entre em contato e comece a planejar sua próxima aventura hoje mesmo</p>
-                <p className={styles.brincadeira}>É apenas uma brincadeira, perdão se de alguma maneira passei uma visão errada ^^!</p>
+                <h1>Encontre aqui a viagem do SIlvio!</h1>
+                <p>Silvio Santos Ipsum Ha hai. Bem boladoam, bem boladoam. Bem gozadoam. O prêmio é em barras de ouro, que vale mais que dinheiroam. Mah você não consegue né Moisés? Você não consegueam. É por sua conta e riscoamm? Mah ooooee vem pra cá. Vem pra cá. Mah roda a roduamm. Valendo um milhão de reaisammm.</p>
             </div>
         </section>
 

@@ -19,7 +19,6 @@ function Home(){
             </div>
             <div className={Style.lojafoto}></div>
 
-    
         </section>
 
     )

@@ -10,7 +10,7 @@ function Rodape(){
     return(
 
         <footer className={styles.corpo}>
-            <h3>Siga-nos nas redes ssosiaiz</h3>
+            <h3>Siga-nos nas redes sociais</h3>
             
             <div className={styles.icones}>
                 <img src={insta} alt="insta" />
@@ -19,7 +19,7 @@ function Rodape(){
                 <img src={whats} alt="whats" />
             </div>
 
-            <h3>telefone de contact - (11) 99999-9999</h3>
+            <h3>telefone de contato - (11) 4002-8922</h3>
         </footer>
 
     )
